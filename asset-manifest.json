@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/George0j/React-Projects/static/css/main.ec5ac22c.css",
+    "main.js": "/George0j/React-Projects/static/js/main.f0ebc757.js",
+    "static/js/453.55d14284.chunk.js": "/George0j/React-Projects/static/js/453.55d14284.chunk.js",
+    "static/media/languages.png": "/George0j/React-Projects/static/media/languages.6727cfd307888ed2b19d.png",
+    "static/media/2345ty.jpg": "/George0j/React-Projects/static/media/2345ty.487f3e914d7733d6ee2c.jpg",
+    "static/media/code.png": "/George0j/React-Projects/static/media/code.44750515e2d21103d010.png",
+    "static/media/campus.jpg": "/George0j/React-Projects/static/media/campus.9fcd7ab59b984683b947.jpg",
+    "static/media/background.jpg": "/George0j/React-Projects/static/media/background.9b55e65a9bd98f650a5e.jpg",
+    "index.html": "/George0j/React-Projects/index.html",
+    "main.ec5ac22c.css.map": "/George0j/React-Projects/static/css/main.ec5ac22c.css.map",
+    "main.f0ebc757.js.map": "/George0j/React-Projects/static/js/main.f0ebc757.js.map",
+    "453.55d14284.chunk.js.map": "/George0j/React-Projects/static/js/453.55d14284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5ac22c.css",
+    "static/js/main.f0ebc757.js"
+  ]
+}

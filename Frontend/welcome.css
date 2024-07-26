@@ -1,0 +1,56 @@
+@media screen and (max-width: 430px) {
+  body {
+    background: rgb(2, 2, 36);
+    height: fit-content;
+  }
+  nav {
+    background: #fabdbd;
+    padding: 3px 0;
+    box-shadow: 5px 5px 16px blue, 5px 5px 16px blue;
+    justify-content: center;
+    display: flex;
+  }
+  nav > h1 {
+    text-shadow: 4px 4px 6px black;
+  }
+  p {
+    font-size: 40px;
+    text-shadow: 2px -2px 3px beige;
+  }
+  .home {
+    font-size: 25px;
+    text-shadow: 1px -1px 2px beige;
+  }
+  .home > h5 {
+    border: 2px solid white;
+    border-radius: 6px;
+  }
+  .Event {
+    display: block;
+    width: 100%;
+    position: relative;
+  }
+  .Event > h1 {
+    background-color: red;
+    font-size: 29px;
+    border-radius: 6px;
+    text-shadow: 2px 3px 2px white;
+  }
+  .Event > img {
+    width: 100%;
+    height: fit-content;
+    border-radius: 10px;
+  }
+
+  .votes {
+    display: flex;
+    position: absolute;
+  }
+  .votes > h2 {
+    font-size: 20px;
+    text-shadow: 2px -2px yellow;
+  }
+  .votes > button {
+    height: 4vh;
+  }
+}
